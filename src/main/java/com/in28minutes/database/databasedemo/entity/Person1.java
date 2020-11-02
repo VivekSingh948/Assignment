@@ -58,7 +58,7 @@ public class Person1 {
 
 	@Override
 	public String toString() {
-		return "\nPerson [id=" + id + ", name=" + name + ", location=" + location + ", birth_date=" + birth_date + "]";
+		return "\nPerson1 [id=" + id + ", name=" + name + ", location=" + location + ", birth_date=" + birth_date + "]";
 	}
 	
 	
