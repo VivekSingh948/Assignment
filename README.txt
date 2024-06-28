@@ -6,6 +6,7 @@ This is a simple project to learn git and GitHub tohether
 
 ## First change
 
+##Second change
 
 ## Purpose
 
