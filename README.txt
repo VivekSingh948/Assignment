@@ -19,3 +19,5 @@ This is a simple project to learn git and GitHub tohether
 ## How to contribute
 
 #Add some more lines
+
+## Add copyright notice
