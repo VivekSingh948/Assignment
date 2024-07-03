@@ -30,3 +30,8 @@ build/
 ### VS Code ###
 .vscode/
 pom.xml
+*.swp
+humans_BACKUP_2504.txt
+humans_BASE_2504.txt
+humans_LOCAL_2504.txt
+humans_REMOTE_2504.txt
